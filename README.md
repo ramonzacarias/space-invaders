@@ -16,8 +16,7 @@
 - Sistema de pontuação
 - Menu
 
-</b>
-</b>
+<br/><br/>
 
 <p align="center">
   <img src="https://s9.gifyu.com/images/Peek-2021-09-26-00-09.gif" />

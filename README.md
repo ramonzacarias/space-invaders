@@ -14,6 +14,7 @@
 
 - Colisão com os inimigos
 - Sistema de pontuação
+- Niveis
 - Menu
 
 <br/><br/>
